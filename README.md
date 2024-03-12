@@ -1,5 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-photo/development-opportunity-strategy-improvement-word_53876-13771.jpg?w=740&t=st=1710219161~exp=1710219761~hmac=7a88fef03e4acec66d64f33e4e50b05035e277936690d01ae858ad18d323feff
-)]
 <h1 align="center">Hi 👋, I'm Anusha Velagana</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
