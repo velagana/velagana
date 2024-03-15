@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anusha Velagana</h1>
+<img src="c:\Users\anusha\Downloads\Untitled_design_(1)_page-0001_(1)-transformed.jpeg">
+<h1 align="center">Hi 👋, I'm Anusha Velagana</>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
 - 🔭 I’m currently working on **Python and Django**
@@ -29,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velagana&show_icons=true&locale=en" alt="velagana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velagana&" alt="velagana" /></p>
+
