@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Web development**
 
-- 💬 Ask me about **PYTHON , HTML , CSS , SQL ,**
+- 💬 Ask me about **PYTHON , HTML , SQL , JAVASCRIPT , HTML , CSS **
 
 - 📫 How to reach me **velaganaanusha@gmail.com**
 
