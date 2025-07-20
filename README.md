@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif" alt="velagana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velagana" alt="velagana" height="20",width="10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velagana" alt="velagana" height="2",width="10" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
