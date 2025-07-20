@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif" alt="velagana" height="100" , width ="100" /> </p>
+<p align="left"> <img src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif" alt="velagana" height="600" , width ="600" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 - 🔭 I’m currently working on **Python**
